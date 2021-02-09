@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WilHacks 2.0
 
 ![Image](Images/logo.jpg)
 
