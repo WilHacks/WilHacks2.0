@@ -1,6 +1,14 @@
-## WilHacks 2.0
+# WilHacks 2.0
+## Schedule To Be Decided
 
 ![Image](Images/logo.jpg)
+
+## About
+## FAQ
+## Schedule
+
+
+
 
 You can use the [editor on GitHub](https://github.com/WilHacks/WilHacks2.0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
